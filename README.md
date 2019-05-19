@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 #### how are you ...this is new
 pushing to stating
 this is not in stage
-This has been added to staging
+This has been added to staging + joker
