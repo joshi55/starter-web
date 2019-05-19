@@ -2,7 +2,7 @@
 hello hello
 This repository is for showing how Git and GitHub work
 
-lo
+helllllo
 ## Purpose
 
 Sample website with plenty of files for demos
