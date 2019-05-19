@@ -13,3 +13,4 @@ pushing to stating
 this is not in stage
 This has been added to staging + joker +making change in working
 this has not been committed
+THIS IS NOT IN COMMIT, BUT ONLY IN STAGING 
